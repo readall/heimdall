@@ -1,6 +1,6 @@
 [package]
 name = "heimdall"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Read all <llearnell@gmail.com>"]
 
 [dependencies]
